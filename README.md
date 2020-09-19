@@ -1,1 +1,1 @@
-# responsive-portfolio
+A Pure HTML / CSS Responsive portfolio
